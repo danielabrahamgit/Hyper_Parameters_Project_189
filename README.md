@@ -22,5 +22,9 @@ The lecture material for this week can be found in the Lecture_Material folder. 
 * **Notes** - This folder holds the Note document for Hyperparameters as well as any related material.
   * **Hyper_Notes** - This is a pdf containig the hyperparameter notes for the week.  This file should be made accessible to the students so that they can review the material from lecture.
 * **Slides** - This folder holds the lecture slides for this week
-  * **Hyper_Slides** - This is a pdf containing the slide deck for a lecture on Hyperparameters
+  * **Hyper-Slides** - This is a pdf containing the slide deck for a lecture on Hyperparameters
+  
+**Quizzes** <br>
+The quiz material for the week can be found in this folder.
+* **Hyper_Quiz** - PDF of a 10 question quiz about Hyperparameters.  This document contains both the questions and the answers.  Can be provided to students as is so that they can check their understanding of the material from the week. 
 
