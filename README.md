@@ -1,1 +1,11 @@
 # Hyper_Parameters_Project_189
+This folder holds the 16ML course material pertaining to Hyper Parameters. Resources for both intructors and students are contained. These include course notes, a slide deck, quiz questions with answers, and a coding assignment with answers. This material is meant to be taught in the fifth week of class to develop an understanding of how a model architect settles on the learning parameters she will use. Students are 4 weeks into EE16B and CS61B.  This means that they are familiar with derivatives, which can be useful when talking about gradients.  In 61B they are getting into discussions about runtime with week, so this will be important to tie into when talking about grid search vs. random search. Notably, in the previous weeks of 16ML, the students have come across ridge regularization and learning rates.  These should be easy hyperparameters upon which they can hang their understanding.
+___
+## Usage
+Instructors are encouraged to release the included notes to the students the day they give their lecture on Hyperparameters. This lecture should follow what is written in the slide deck. When teaching the students, we want to first make a connection to Ridge Regression and Ridge Weights, a hyperparameter they are already familiar with.  They should already be relatively familiar with the tradeoffs between high ridge weight and low ridge weight, so optimizing this hyperparameter should be a logical next step.  This same concept can then be extended to other hyperparameters.  When talking about grid and random search, make sure to slowly build up to the concept of runtime as this is something they are only just being introduced to.
+<br>
+After listening to the lecture and reading the notes, students are encouraged to take the provided quiz. These questions are not meant to be overly complicated, they are just testing whether or not students absorbed what they were supposed to from the lesson. Tell students to re-read the notes if they cannot pass the quiz. 
+<br>
+Release the coding assignment 24 hours after you give lecture. This will give students a chance to internalize the material and take the quiz before jumping into the more difficult work.
+___
+## Navigation
