@@ -13,7 +13,12 @@ By the end of this week, students should understand the importance of tuning hyp
 ___
 ## Navigation
 **Coding Assignments** <br>
-The coding assignments can be found in the Notebook folder.  In it you will find 2 files and a folder named _material_
-* **Hyper_Intructor** - The Hyper Parameter Notebook with answers filled in and all cells run.  Intructors will use this as a reference when a assisting students, not that this is not the only way to implement the solutions. Can also be provided to students as a solution manual.
-* **Hyper_Student** - The Hyper Parameter Notebook with none of the answers filled in.  Provide this to students so that they can work on filling in the answers throughout the course of the week.
-* **_material_** - This folder holds all of the supplimentary material for the coding assignment.  This includes all imported data sets and images.
+The jupyter notebook coding assignments for the week are located in the Coding_Assignments folder.  This holds all relavent coding material for instructors and students.
+* **Hyper_Intructor** - The Hyper Parameter Notebook with answers filled in and all cells run.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions. Can also be provided to students as a solution manual.
+* **Hyper_Student** - The Hyper Parameter Notebook with none of the answers filled in.  Provide this to students so that they can work on filling in the answers throughout the week.
+
+**Lecture_Material**
+The lecture material for this week can be found in the Lecture_Material folder. Within this folder you will find two subfolders named Notes and Slides.
+* **Notes** - This folder holds the Note document for Hyperparameters as well as any related material.
+  * **Hyper_Notes** - This is a pdf containig the hyperparameter notes for the week.  This file should be made accessible to the students so that they can review the material from lecture.
+
