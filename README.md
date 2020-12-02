@@ -20,5 +20,5 @@ The jupyter notebook coding assignments for the week are located in the Coding_A
 **Lecture_Material**
 The lecture material for this week can be found in the Lecture_Material folder. Within this folder you will find two subfolders named Notes and Slides.
 * **Notes** - This folder holds the Note document for Hyperparameters as well as any related material.
-
+  * **Hyper_Notes** - This is a pdf containig the hyperparameter notes for the week.  This file should be made accessible to the students so that they can review the material from lecture.
 
