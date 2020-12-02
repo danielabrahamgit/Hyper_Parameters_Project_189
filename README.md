@@ -7,6 +7,8 @@ Instructors are encouraged to release the included notes to the students the day
 After listening to the lecture and reading the notes, students are encouraged to take the provided quiz. These questions are not meant to be overly complicated, they are just testing whether or not students absorbed what they were supposed to from the lesson. Tell students to re-read the notes if they cannot pass the quiz. 
 <br>
 Release the coding assignment 24 hours after you give lecture. This will give students a chance to internalize the material and take the quiz before jumping into the more difficult work.  This assignment makes use of the MNIST data set and has the students finding optimal hyperparameters for different methods of classification.  We hope to reinforce the material the students have been learning in the past weeks by having them implement ridge regression, PCA, and logistic regression before tuning their hyperparameters.  Visual representations should give them a deeper understanding of the scale at which this tuning can help minimize loss.  The last part of the notebook should help them understand the tradeoffs when it comes to using grid search.
+<br>
+By the end of this week, students should understand the importance of tuning hyperparameters.  They should grasp tradeoffs associated with some of the more common hyperparameters, such as ridge weight and learning rate.  And they should be aware of the pros and cons of using grid search vs random search, especially as they relate to time complexity and optimal performance.
 ___
 ## Navigation
 **Coding Assignments** <br>
