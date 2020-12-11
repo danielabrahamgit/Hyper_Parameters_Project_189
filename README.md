@@ -26,5 +26,6 @@ The lecture material for this week can be found in the Lecture_Material folder. 
   
 **Quizzes** <br>
 The quiz material for the week can be found in this folder.
-* **Hyper_Quiz** - PDF of a 10 question quiz about Hyperparameters.  This document contains both the questions and the answers.  Can be provided to students as is so that they can check their understanding of the material from the week. 
+* **Hyperparameter_Quiz** - PDF of a 10 question quiz about Hyperparameters.  This document contains the questions.
+* **Hyperparameter_Quiz_Answer_Key** - PDF of the solutions to the quiz. Can be provided to students as is so that they can check their understanding of the material from the week. 
 
