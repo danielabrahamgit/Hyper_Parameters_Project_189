@@ -14,17 +14,18 @@ ___
 ## Navigation
 **Coding Assignments** <br>
 The jupyter notebook coding assignments for the week are located in the Coding_Assignments folder.  This holds all relavent coding material for instructors and students.
-* **Hyper_Intructor** - The Hyper Parameter Notebook with answers filled in and all cells run.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions. Can also be provided to students as a solution manual.
+* **Hyper_Instructor** - The Hyper Parameter Notebook with answers filled in and all cells run.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions. Can also be provided to students as a solution manual.
 * **Hyper_Student** - The Hyper Parameter Notebook with none of the answers filled in.  Provide this to students so that they can work on filling in the answers throughout the week.
 
 **Lecture_Material**
 The lecture material for this week can be found in the Lecture_Material folder. Within this folder you will find two subfolders named Notes and Slides.
 * **Notes** - This folder holds the Note document for Hyperparameters as well as any related material.
-  * **Hyper_Notes** - This is a pdf containig the hyperparameter notes for the week.  This file should be made accessible to the students so that they can review the material from lecture.
+  * **Hyperparameter_Notes** - This is a pdf containig the hyperparameter notes for the week.  This file should be made accessible to the students so that they can review the material from lecture.
 * **Slides** - This folder holds the lecture slides for this week
-  * **Hyper-Slides** - This is a pdf containing the slide deck for a lecture on Hyperparameters
+  * **Hyperparameter-Slides** - This is a pdf containing the slide deck for a lecture on Hyperparameters
   
 **Quizzes** <br>
 The quiz material for the week can be found in this folder.
-* **Hyper_Quiz** - PDF of a 10 question quiz about Hyperparameters.  This document contains both the questions and the answers.  Can be provided to students as is so that they can check their understanding of the material from the week. 
+* **Hyperparameter_Quiz** - PDF of a 10 question quiz about Hyperparameters.  This document contains the questions.
+* **Hyperparameter_Quiz_Answer_Key** - PDF of the solutions to the quiz. Can be provided to students as is so that they can check their understanding of the material from the week. 
 
